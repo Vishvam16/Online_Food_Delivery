@@ -5,22 +5,22 @@ This project is a Database Management System (DBMS) implementation for an Online
 Customer & Restaurant Management
 Track customer details, restaurant profiles, menus, and cuisine types.
 
-Order & Delivery Tracking
+## Order & Delivery Tracking:
 Handle complex order flows with delivery personnel assignments and payment statuses.
 
-Ratings, Reviews & Feedback
+## Ratings, Reviews & Feedback:
 Collect and analyze customer feedback for both restaurants and delivery personnel.
 
-Coupons & Discounts
+## Coupons & Discounts:
 Manage promotional codes with conditions like expiration dates and minimum order value.
 
-Comprehensive SQL Queries
+## Comprehensive SQL Queries:
 Includes advanced queries for performance tracking, trend analysis, and customer insights.
 
-Database Design Highlights
+## Database Design Highlights:
 Normalized schema using foreign keys, constraints, and cascading actions.
 
-Designed with:
+## Designed with:
 
 ER Diagrams
 
@@ -28,13 +28,13 @@ Relational Models
 
 Functional Dependencies
 
-Follows normalization principles:
+## Follows normalization principles:
 
 1NF, 2NF, 3NF, and BCNF
 
 Prevents update, insert, and delete anomalies.
 
-Contents
+## Contents:
 SQL DDL scripts to create the schema
 
 ER diagram, relational schema, and functional dependencies
