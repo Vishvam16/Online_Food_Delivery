@@ -1,7 +1,7 @@
 # Online_Food_Delivery
 This project is a Database Management System (DBMS) implementation for an Online Food Delivery System built using PostgreSQL. It models and manages real-world entities such as customers, restaurants, menus, orders, delivery personnel, payments, reviews, and feedback.
 
-Key Features
+-- Key Features:
 Customer & Restaurant Management
 Track customer details, restaurant profiles, menus, and cuisine types.
 
